@@ -1,0 +1,13 @@
+The Map,11
+wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall
+wall,nothing,nothing,nothing,nothing,nothing,nothing,nothing,exit,wall,wall
+wall,wall,wall,nothing,wall,wall,gold,wall,wall,wall,wall
+wall,wall,gold,nothing,nothing,wall,wall,wall,monster,gold,wall
+wall,wall,nothing,nothing,nothing,nothing,nothing,nothing,nothing,nothing,wall
+wall,wall,nothing,nothing,nothing,wall,nothing,wall,wall,wall,wall
+wall,wall,wall,nothing,wall,wall,wall,wall,wall,wall,wall
+wall,nothing,nothing,nothing,nothing,nothing,nothing,nothing,nothing,monster,wall
+wall,nothing,wall,wall,wall,nothing,wall,nothing,wall,wall,wall
+wall,nothing,gold,wall,wall,monster,wall,nothing,wall,wall,wall
+wall,nothing,wall,wall,wall,nothing,player,nothing,wall,wall,wall
+wall,wall,wall,wall,wall,wall,wall,wall,wall,wall,wall

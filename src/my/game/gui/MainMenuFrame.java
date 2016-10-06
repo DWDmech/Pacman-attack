@@ -112,8 +112,7 @@ public class MainMenuFrame extends JFrame {
 		btnMenu.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		btnMenu.addActionListener(new ActionListener(){
 			public void actionPerformed(ActionEvent arg0) {
-				JOptionPane.showMessageDialog(null, "it was misstake");
-				System.exit(0);
+				JOptionPane.showMessageDialog(null, "Nope!");
 			}
 		});
 
